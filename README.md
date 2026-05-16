@@ -7,7 +7,7 @@ I am a Computer Science professional and developer passionate about building rob
 ### 🚀 What I Do
 * **AI & Computer Vision:** Developing intelligent, real-time tracking workflows and gesture-recognition frameworks.
 * **Full-Stack & Databases:** Designing end-to-end web applications and managing relational database schemas (MySQL).
-* **Low-Level Programming & Security:** Writing efficient assembly code (8086, MIPS) and exploring network security, penetration testing, and OSINT.
+* **Programming & Security:** Writing efficient assembly code (8086, MIPS) and exploring network security, penetration testing, and OSINT.
 
 ---
 
